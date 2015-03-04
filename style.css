@@ -1,3 +1,7 @@
+body{
+	background: url("images/background.png") repeat scroll 0 0 rgba(0, 0, 0, 0);
+}
+
 .ui-menu{
 	width: 150px;
 }
