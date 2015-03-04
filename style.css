@@ -1,0 +1,22 @@
+.ui-menu{
+	width: 150px;
+}
+
+.draggable{
+	width: 150px;
+	height: 150px;
+	padding: 0.5em;
+}
+
+.droppable{
+	width: 150px;
+	height: 150px;
+	padding: 0.5em;
+	float: left;
+	margin: 10px;
+}
+
+.calendar{
+    position: absolute;
+    right: 50px;
+}
